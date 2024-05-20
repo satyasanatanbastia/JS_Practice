@@ -26,6 +26,35 @@
 // //Arrays in js
 // let satya=['satya sanatan bastia', 22, 'black', 33.3, true]
 // console.log(satya);
-// console.log(typeof(satya))
+// console.log(typeof "satya")
 // console.log(satya[3],satya[2],satya[0])
+
+// // Pre/Post Increment Value in JS
+// // Post Increment
+// let a=10
+// console.log(++a);  //11
+
+// // post Increment
+// let x=4
+// console.log(x++);  //4
+// console.log(x);  //5
+
+// // Pre/Post Decrement Value in JS
+// // Pre Decrement
+// let x= 24
+// console.log(--x);  //23
+
+// // Post Decrement
+// let a= 13
+// console.log(a--);  //13
+// console.log(a);  //12
+
+//just prt
+// let a=5
+// let b= 10
+// console.log((++a)*(--b));  //54
+// console.log((a++)*(--b));  //48
+// console.log((a++)*(b--));  //56
+// console.log((++a)*(b--));  //63
+
 
