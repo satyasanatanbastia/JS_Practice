@@ -64,4 +64,36 @@
 // let check = (age>=18)? 'yes vote': 'No vote';
 // console.log(check);
 
+// // If Else Condition
+// let mark= 95
+// if (mark>=90){
+//     console.log("A");
+// }
+// else if(mark>=80){
+//     console.log("B")
+// }
+// else if(mark>=70){
+//     console.log("C")
+// }
+// else if(mark>=60){
+//     console.log("D")
+// }
+// else{
+//     console.log("E")
+// }
+
+// // SWITCH CASE IN JS
+// let grade= "A"
+// switch (grade){
+//     case "A": console.log("Exelent");
+//     break;
+//     case "B": console.log("Good");
+//     break;
+//     case "C": console.log("OK OK");
+//     break;
+//     case "D": console.log("ok");
+//     break;
+//     default : console.log("Unknown Grade");
+//     break;
+// }
 
