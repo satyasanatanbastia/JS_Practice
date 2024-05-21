@@ -58,3 +58,10 @@
 // console.log((++a)*(b--));  //63
 
 
+// // Ternary Operater 
+
+// let age=18
+// let check = (age>=18)? 'yes vote': 'No vote';
+// console.log(check);
+
+
